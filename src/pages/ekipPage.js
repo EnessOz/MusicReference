@@ -35,7 +35,7 @@ export const EkipPage = () => {
       <div className='ekip-inside'>
         <img src='/photos/okan.jpeg' alt='okan'></img>
         <div className='ekip-texts'>
-          <a href='https://www.instagram.com/burgusuzbassist className='button-74'>Okan Aydın <FaSquareInstagram /></a>
+          <a href='https://www.instagram.com/burgusuzbassist' className='button-74'>Okan Aydın <FaSquareInstagram /></a>
           <strong>Bas Gitar <GiGuitarBassHead /></strong>
           <strong>Back Vokal <PiMicrophoneStageLight /></strong>
         </div>
