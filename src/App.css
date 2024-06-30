@@ -218,7 +218,7 @@ body {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    width: 200px;
+    width: 250px;
 }
 
 .button-74:hover {
