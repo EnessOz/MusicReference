@@ -12,7 +12,7 @@ export const HomePage = () => {
         </div>
       <div className='home-a'>
         <a className='button-74 ' href='/bati'>Rock/Pop Repertuar</a>
-        <a className='button-74 ' href='/dogu'>Gelenksel Repertuar</a>
+        <a className='button-74 ' href='/dogu'>Geleneksel Repertuar</a>
         <a className='button-74 ' href='/yabanci'>Yabancı Repertuar</a>
       </div>
       <div className='home-social-header'>
